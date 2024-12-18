@@ -1,0 +1,66 @@
+{
+    "Pepper_Bell_Bacterial_spot": {
+      "Description": "Caused by Xanthomonas campestris, bacterial spot appears as water-soaked lesions on leaves, which turn brown and become rough over time. Severe infections can cause leaf drop and blemishes on fruits.",
+      "Solution": "Use copper-based fungicides and avoid overhead watering to prevent the spread of bacteria. Remove infected plants and avoid working with plants when they are wet. Use disease-free seeds and resistant varieties."
+    },
+    "Pepper_bell_healthy": {
+      "Description": "A healthy pepper plant has dark green leaves, no signs of lesions, or leaf spots, and grows strong stems with vibrant fruits.",
+      "Solution": "Maintain optimal soil moisture, well-draining soil, and avoid excessive nitrogen to prevent excessive foliage."
+    }
+  ,
+    "Potato_Early_blight": {
+      "Description": "Early blight, caused by Alternaria solani, produces dark, concentric spots on leaves, typically affecting older leaves first. This can reduce yield if left unchecked.",
+      "Solution": "Use fungicides containing chlorothalonil or copper. Remove affected foliage and rotate crops to prevent soil buildup of the pathogen."
+    },
+    "Potato_healthy": {
+      "Description": "A healthy potato plant shows consistent green foliage without spots, blemishes, or wilting, and tubers are firm and undamaged.",
+      "Solution": "Ensure proper spacing, avoid overwatering, and practice crop rotation to prevent disease buildup in the soil."
+    },
+    "Potato_Late_blight": {
+      "Description": "Caused by Phytophthora infestans, late blight causes dark, water-soaked lesions on leaves and stems, eventually leading to plant collapse. Tubers may also rot.",
+      "Solution": "Apply fungicides like mancozeb or chlorothalonil as preventative measures. Remove infected plants and avoid overhead watering. Rotate crops yearly."
+    }
+  ,
+    "Tomato_Target_Spot": {
+      "Description": "Target spot, caused by Corynespora cassiicola, presents as small brown lesions on leaves, which expand and may cause defoliation.",
+      "Solution": "Use fungicides and ensure good air circulation around plants. Remove infected foliage and avoid wetting leaves during irrigation."
+    },
+    "Tomato_mosaic_virus": {
+      "Description": "The mosaic virus causes mottled or stunted growth and deformed fruits. It spreads through contaminated tools, insects, or direct contact.",
+      "Solution": "Use virus-resistant varieties and sanitize tools. Control aphids and other pests that may carry the virus."
+    },
+    "Tomato_YellowLeaf__Curl_Virus": {
+      "Description": "This virus is spread by whiteflies and causes yellowing, curling, and stunted growth in tomato plants.",
+      "Solution": "Control whiteflies using insecticidal soap or neem oil. Use resistant varieties and cover plants with fine netting if necessary."
+    },
+    "Tomato_Bacterial_spot": {
+      "Description": "Similar to pepper bacterial spot, this is caused by Xanthomonas, leading to dark, water-soaked spots on leaves and stems.",
+      "Solution": "Use copper-based fungicides and remove infected leaves. Practice crop rotation and avoid working with wet plants."
+    },
+    "Tomato_Early_blight": {
+      "Description": "Early blight in tomatoes causes dark spots with concentric rings, usually affecting older foliage first.",
+      "Solution": "Use fungicides and practice good crop rotation. Remove affected leaves and ensure adequate plant spacing."
+    },
+    "Tomato_healthy"
+    : {
+      "Description": "A healthy tomato plant has firm, green leaves without spots or discoloration, and bears strong, vibrant fruits.",
+      "Solution": "Provide balanced nutrition, proper watering, and regular pruning to encourage healthy growth."
+    },
+    "Tomato_Late_blight": {
+      "Description": "Late blight leads to dark lesions on leaves and stems, eventually causing plant collapse. Fruits develop brown rot.",
+      "Solution": "Use fungicides preventatively, especially in damp conditions. Remove infected plants promptly and avoid overhead watering."
+    },
+    "Tomato_Leaf_Mold": {
+      "Description": "Leaf mold causes yellow spots on leaves, turning brown and fuzzy on the underside.",
+      "Solution": "Improve ventilation, avoid overhead watering, and apply appropriate fungicides to control spread."
+    },
+    "Tomato_Septoria_leaf_spot": {
+      "Description": "Small, circular spots with dark borders appear on leaves, causing premature leaf drop.",
+      "Solution": "Use fungicides and remove affected leaves. Ensure good air circulation and avoid wetting foliage."
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+      "Description": "Spider mites cause tiny yellow spots on leaves and fine webbing, leading to a stippled or faded appearance.",
+      "Solution": "Spray with insecticidal soap or neem oil. Increase humidity to deter mites, as they thrive in dry conditions."
+    }
+  }
+
